@@ -15,7 +15,7 @@ Deve ser possível:
 - [ ] o usuário obter seu histórico de check-ins;
 - [ ] o usuário buscar academias próximas;
 - [ ] o usuário buscar academias pelo nome;
-- [ ] o usuário realizar check-in em uma academia;
+- [X] o usuário realizar check-in em uma academia;
 - [ ] validar o check-in de um usuário;
 - [ ] cadastrar uma academia;
 
