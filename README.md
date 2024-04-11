@@ -12,12 +12,12 @@ Deve ser possível:
 - [X] se autenticar;
 - [X] obter o perfil de um usuário logado;
 - [ ] obter o número de check-ins realizados pelo usuário logado;
-- [ ] o usuário obter seu histórico de check-ins;
+- [X] o usuário obter seu histórico de check-ins;
 - [ ] o usuário buscar academias próximas;
 - [ ] o usuário buscar academias pelo nome;
 - [X] o usuário realizar check-in em uma academia;
 - [ ] validar o check-in de um usuário;
-- [ ] cadastrar uma academia;
+- [X] cadastrar uma academia;
 
 ## Regras de Negócio (RNs)
 
@@ -36,5 +36,5 @@ Os Requisitos Não-Funcionais são aspectos técnicos da aplicação que o clien
 
 - [X] A senha do usuário precisa estar criptografada;
 - [X] Os dados da aplicação precisam estar persistidos em um banco PostgresSQL;
-- [ ] Todas listas de dados precisam estar paginadas com 20 itens por página;
+- [X] Todas listas de dados precisam estar paginadas com 20 itens por página;
 - [ ] O usuário deve ser identificado por um JWT (JSON Web Token);
