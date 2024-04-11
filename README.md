@@ -11,7 +11,7 @@ Deve ser possível:
 - [X] se cadastrar;
 - [X] se autenticar;
 - [X] obter o perfil de um usuário logado;
-- [ ] obter o número de check-ins realizados pelo usuário logado;
+- [X] obter o número de check-ins realizados pelo usuário logado;
 - [X] o usuário obter seu histórico de check-ins;
 - [ ] o usuário buscar academias próximas;
 - [ ] o usuário buscar academias pelo nome;
