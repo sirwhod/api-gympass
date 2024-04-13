@@ -38,3 +38,6 @@ Os Requisitos Não-Funcionais são aspectos técnicos da aplicação que o clien
 - [X] Os dados da aplicação precisam estar persistidos em um banco PostgresSQL;
 - [X] Todas listas de dados precisam estar paginadas com 20 itens por página;
 - [X] O usuário deve ser identificado por um JWT (JSON Web Token);
+
+
+Criar nova branch
